@@ -1,0 +1,6 @@
+[submodule "Deep-Variance-Weighting-MinAtar"]
+	path = Deep-Variance-Weighting-MinAtar
+	url = https://github.com/matsuolab/Deep-Variance-Weighting-MinAtar
+[submodule "Deep-Variance-Weighting-Maze"]
+	path = Deep-Variance-Weighting-Maze
+	url = https://github.com/matsuolab/Deep-Variance-Weighting-Maze
