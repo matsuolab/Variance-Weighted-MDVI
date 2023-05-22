@@ -10,7 +10,7 @@ This repository is the official implementation of VWLS-MDVI proposed in [Regular
 ## Requirements
 
 ```bash
-cd VWLS-MDVI
+# make sure you are in Variance-Weighted-MDVI/VWLS-MDVI
 poetry install
 ```
 
