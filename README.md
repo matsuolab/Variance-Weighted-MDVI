@@ -1,6 +1,6 @@
 # Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice
 
-This repository contains a collection of reproduction codes for the experiments described in Section 7 of the paper [Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice](TODO).
+This repository contains a collection of reproduction codes for the experiments described in Section 7 of the paper [Regularization and Variance-Weighted Regression Achieves Minimax Optimality in Linear MDPs: Theory and Practice](https://arxiv.org/abs/2305.13185).
 
 ## Requirements
 
